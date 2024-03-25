@@ -1,2 +1,2 @@
-DevOps second task.
+DevOps first task.
 Illia Pinchuk.
